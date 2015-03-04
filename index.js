@@ -5,3 +5,8 @@ alert("DO NOT USE IN PRODUCTION!");
 alert('BAD THINGS WILL HAPPEN!');
 
 document.body.style.backgroundColor = 'red';
+
+var yes = confirm("Are you sure you dont have this in production?!");
+if (!yes) {
+	window.close();
+}
