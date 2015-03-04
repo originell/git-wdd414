@@ -14,6 +14,8 @@ echo 'Ja, genau! haha. not.';
 ?>
 ```
 
+Weitere Beispiele sehen Sie in der beigelegten index.php. Für weitere Fragen wenden Sie sich an Ihren Arzt oder Apotheker.
+
 ```js
 console.log('winwin');
 ```
