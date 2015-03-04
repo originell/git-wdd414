@@ -1,1 +1,1 @@
-console.log("Ein JS Beispiel");
+console.log("Ein JS Beispiel.");
